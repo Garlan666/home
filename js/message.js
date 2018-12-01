@@ -25,7 +25,6 @@ function add(){
 			s+="="+es[i].innerHTML;
 			
 		}
-		alert(s);
 		var Cookies=document.cookie;
 	    var date=new Date();
 	    var expireDays=10;
